@@ -35,7 +35,8 @@ php-projeto/
 ├── dashboard.php
 └── logout.php
 
-Como Rodar o Projeto
+## Como Rodar o Projeto
+
 Clone este repositório:
 https://github.com/emerson-gustavoo/php-projeto
 
