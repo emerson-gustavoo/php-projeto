@@ -16,7 +16,7 @@ Dados dos usuários são persistidos em `data/usuarios.json`.
 ## Tecnologias
 
 - PHP 7.4+  
-- Apache (XAMPP, WAMP, Laragon ou similar)  
+- Apache (XAMPP)  
 - JSON para armazenamento simples  
 
 ## Estrutura de Pastas
@@ -34,3 +34,30 @@ php-projeto/
 ├── processa_login.php
 ├── dashboard.php
 └── logout.php
+
+Como Rodar o Projeto
+Clone este repositório:
+https://github.com/emerson-gustavoo/php-projeto
+
+Copie a pasta php-projeto para dentro do diretório htdocs do XAMPP:
+C:\xampp\htdocs\php-projeto
+
+Crie manualmente a pasta data/ dentro de php-projeto.
+O sistema criará automaticamente o arquivo usuarios.json quando você cadastrar o primeiro usuário.
+
+Inicie o Apache pelo painel do XAMPP.
+
+Acesse o sistema pelo navegador:
+http://localhost/php-projeto/
+
+Use normalmente:
+
+Cadastre um novo usuário
+
+Faça login com o e-mail e senha cadastrados
+
+Marque “Lembrar e-mail” se quiser testar o cookie
+
+Acesse a área restrita (dashboard)
+
+Clique em logout para sair
