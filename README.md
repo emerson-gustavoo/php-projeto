@@ -38,7 +38,7 @@ php-projeto/
 ## Como Rodar o Projeto
 
 Clone este repositório:
-https://github.com/emerson-gustavoo/php-projeto
+https://github.com/emerson-gustavoo/prog3-a1-poo-emerson-gustavo.git
 
 Copie a pasta php-projeto para dentro do diretório htdocs do XAMPP:
 C:\xampp\htdocs\php-projeto
