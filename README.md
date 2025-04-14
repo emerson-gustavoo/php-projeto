@@ -20,6 +20,8 @@ Dados dos usuários são persistidos em `data/usuarios.json`.
 - JSON para armazenamento simples  
 
 ## Estrutura de Pastas
+
+```
 php-projeto/
 ├── classes/
 │   ├── Usuario.php
@@ -34,6 +36,8 @@ php-projeto/
 ├── processa_login.php
 ├── dashboard.php
 └── logout.php
+```
+
 
 ## Como Rodar o Projeto
 
