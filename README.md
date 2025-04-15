@@ -2,9 +2,9 @@
 
 # Sistema de Autenticação em PHP Puro
 
--Nome: Emerson Gustavo Pobran Rodrigues
-Este é um trabalho de Programação 3: sistema simples de cadastro/login de usuários, usando PHP orientado a objetos, sessões e cookies.  
-Dados dos usuários são persistidos em `data/usuarios.json`.
+- Nome: Emerson Gustavo Pobran Rodrigues
+- Este é um trabalho de Programação 3: sistema simples de cadastro/login de usuários, usando PHP orientado a objetos, sessões e cookies.  
+- Dados dos usuários são persistidos em `data/usuarios.json`.
 
 ## Funcionalidades
 
